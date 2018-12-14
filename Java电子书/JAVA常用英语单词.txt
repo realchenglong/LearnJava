@@ -1,0 +1,181 @@
+学习软件编程必须掌握的英语单词：
+
+
+基础（上）
+
+第一章
+　　public['p?blik]公共的,公用的
+　　static['st?tik]静的;静态的;静止的
+　　void：[v?id]空的
+　　main：[mein]主要的重要的
+　　class：[klɑ:s]类
+　　system：['sist?m]系统方法
+　　out：[aut]出现出外
+　　print：[print]打印
+　　eclipse：[i'klips]java编程软件
+第二章
+　　string：[stri?]字符串类型
+　　double：['d?bl]双精度浮点型
+　　int：[int]整型
+　　char：[t?ɑ:]字符型
+　　scanner：['sk?n?]接收输入
+　　integer：['intid??]整数整型
+　　type：[taip]类型
+第三章
+　　Boolean：['bu:li:?n]布尔类型真假二值
+　　true：[tru:]真
+　　false：[f?:ls]假不正确的
+　　if：[if]如果
+　　else：[els]否则
+　　simple：['simpl]简单单一体
+第四章
+　　case：[keis]实例框架
+　　default：[di'f?:lt]或者
+　　switch：[swit?]判断语句
+       break：[breik]退出
+　　match：[m?t?]匹配
+　　assess：[?'ses]评估
+　　exception：[ik'sep??n]异常
+       equals：['i:kw?ls]判断两个字符串是否相等
+第五章
+　　while：[hwail]循环
+　　index：['indeks]下标
+　　bug：[b?g]缺陷
+　   debug：[di:'b?g]调试
+　　step：[step]步骤
+　　error：['er?]错误
+      answer：['ɑ:ns?]答案回答
+第六章
+　　rate：[reit]比率
+　　young：[j??]年轻的
+　　schedule：['sked?ul]表清单
+　　negative：['neg?tiv]否定的
+　   customer：['k?st?m?]顾客买主
+      birthday：['b?:θdei]生日
+　　point：[p?int]分数得分
+　　continue：[k?n'tinju:]进入到下一个循环
+　　return：[ri't?:n]返回（值）
+　　schedule：['sked?ul]表清单
+　　total：['t?utl]总人数,,全体的
+第七章
+　   array：[?'rei]数组
+      length：[le?θ]长度
+　   sort：[s?:t]分组排序
+　   primitive：['primitiv]初始的简单的
+　  reference：['ref?r?ns]参照证明关系
+　   info：['inf?u]通知报告消息
+     interface：['int?feis]接口
+第八章
+　　random：['r?nd?m]随机数
+　　insert：[in's?:t]插入嵌入
+　   compare：[k?m'p??]比较对照
+　　ignore：[ig'n?:]忽视不理会
+　　triangle：['trai??gl]三角形
+　　invert：[in'v?:t]使转位倒转
+　  diamond：['dai?m?nd]菱形
+　　password：['pɑ:sw?:d]密码口令
+
+
+核心（下）
+
+第一节
+
+　　change：[t?eind?]交换互换
+　　password：['pɑ:sw?:d]口令密码
+　　administrator：[?d'ministreit?]管理员
+　　initial：[i'ni??l]开始的最初的
+　　class：[klɑ:s]类
+　　object：['?bd?ikt]物体对象
+　　return：[ri't?:n返回
+　　encapsulation：[in,k?psju'lei??n]封装
+　　null：[n?l]空的
+第二节
+
+　　person：['p?:sn]人
+　　start：[stɑ:t]开始
+　　menu：['menju:]菜单
+　　login：[l?g'in]注册登陆
+　　main：[mein]主要的
+　　document：['d?kjum?nt]文档
+　　display：[di'splei]显示
+　　method：['meθ?d]方法条理
+　　version：['v?:??n]译文版本
+　　orient：['?:ri?nt]东方的
+　　parameter：[p?'r?mit?]参数
+　　since：[sins]自.....之后
+　　calculator：['k?lkju,leit?]计算
+第三节
+
+　　shape：[?eip]形状
+　　ope：[?up]开放
+　　hange：[t?eind?]交换互换
+　　date：[deit]日期日子
+　　research：[ri's?:t?]研究调查
+　　triangle：['trai??gl]三角形
+　　practice：['pr?ktis]练习
+　　loan：[l?un]借出借给
+　　operator：['?p?,reit?]操作员
+　　protect：[pr?'tekt]保卫护卫
+　　private：['praivit]私人的私有的
+第四节
+
+　　manage：['m?nid?]控制
+　　search：[s?:t?]搜寻查找
+　　upper：['?p?]上面的
+第五节
+
+　　equal：['i:kw?l]相等的
+　　ignore：[ig'n?:]忽视驳回
+　　lower：['l?u?]较低的下部的
+　　last：[lɑ:st]最后的
+　　trim：[trim]切除修改缩减
+　　concatenate：[k?n'k?tineit]使连锁连成一串使连接
+　　buffer：['b?f?]缓冲储存器
+　　final：['fainl]最后的最终的
+第六节
+
+       月份+缩写
+　　一月：JanuaryJan.
+　　二月：FebruaryFeb.
+　　三月：MarchMar.
+　　四月：AprilApr.
+　　五月：May-
+　　六月：June-
+　　七月：July-
+　　八月：AugustAug.
+　　九月：SeptemberSept.
+　　十月：OctoberOct.
+　　十一月：NovemberNov.
+　　十二月：DecemberDec
+第七节
+
+       星期
+　　Saturday：['s?t?di]星期六
+　　Monday：['m?ndei]星期一
+　　Tuesday：['tju:zdi]星期二
+　　Wednesday：['wenzdi]星期三
+　　Thursday：['θ?:zdi]星期四
+　　Friday：['fraidi]星期五
+　　Sunday：['s?ndi]星期日
+
+第八节
+　　除了星期、月份外的定义变量中常用的单词
+　　score：[sk?:]成绩
+　　price：[prais]价钱
+　　test：[test]实验
+　　demo：['dem?u]样本
+　　sum：[s?m]和
+　　num：[n?m]数字
+　　height：[hait]身高
+　　weight：[weit]体重
+　　music：['mju:zik]音乐
+　　computer：[k?m'pju:t?]电脑
+　　student：['stju:d?nt]学生
+　　total：['t?utl]总计的,总括的,全体的
+　　max最大的
+　　min最小的
+　　avg平均分
+　　Add加
+　　Minus减
+　　multiply：['m?ltiplai]乘
+　　divide：[di'vaid]除
